@@ -1,0 +1,52 @@
+{
+    "token": "OTI3MjY2MjI5MjEzODgwMzcw.YdHt-A.h8YX1lG2LYFudRw0ti3wkqFsa4I",
+    "prefix": "wr",
+    "bot_name": "wr bot",
+    "main_color": "#000000",
+    "bot_owners": ["763489078477848617","763489078477848617", "763489078477848617" ],
+
+    "anti_bad_word_toggle": false,
+    "anti_bad_words": [  "",  "",  "",  "", "", "", "","","","",""],
+
+    "counter": false,
+    "counter_channel": "820056278311108630",
+    "counter_number_reach": 5,
+    
+    "blacklisted": ["ID 1","ID 2","ID 3"],
+    "whitelisted": ["ID 1","ID 2","ID 3"],
+    
+    "ignore_channel_toggle": false,
+    "ignore_channel_id": ["820056278311108630","CHANNEL 2 ID"],
+    
+    "anti_link_toggle": false,
+    "mute_role": "819758155201904711",
+
+    "command_cooldown_toggle": false,
+    "command_cooldown_time": "3",
+    
+    "xp_system_toggle": false,
+    "xp_system_rate": 10,
+    "xp_system_levelrate": 300,
+    
+    "suggest_system_toggle": false,
+    "suggest_system_channel": "",
+    
+    "report_system_toggle": false,
+    "report_system_channel": "820056278311108630",
+    
+    "mod_logs_toggle": false,
+    "mod_logs_channel": "820056278311108630",
+    "mod_logs_color": "0xbd1751",
+    
+    "anti_selfbot_toggle": false,
+    "anti_self_bot_message": "No self bots allowed!",
+    
+    "status_type": "STREAMING",
+    "status_url": "https://www.twitch.tv/#",
+    "bot_status": ["𝐖𝐀𝐍𝐓𝐄𝐃 🆁🅴🅻🅰🆇"],
+    "status_change_interval": "2",
+    
+    "welcome_message_enabled": false,
+    "welcome_message_server": "815344229940985857",
+    "welcome_message_channel": "820056278311108630"
+}
